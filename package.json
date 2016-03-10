@@ -1,0 +1,19 @@
+{
+  "name": "mongoscraper",
+  "version": "1.0.0",
+  "description": "An application that scrapes data from a webpage, then saves it in mongo, and then displays it",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ceckenrode/mongoScraper.git"
+  },
+  "author": "Christian Eckenrode",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ceckenrode/mongoScraper/issues"
+  },
+  "homepage": "https://github.com/ceckenrode/mongoScraper#readme"
+}
