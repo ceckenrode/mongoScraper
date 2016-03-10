@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/ceckenrode/mongoScraper/issues"
   },
-  "homepage": "https://github.com/ceckenrode/mongoScraper#readme"
+  "homepage": "https://github.com/ceckenrode/mongoScraper#readme",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "express": "^4.13.4",
+    "mongojs": "^2.3.0",
+    "request": "^2.69.0"
+  }
 }
